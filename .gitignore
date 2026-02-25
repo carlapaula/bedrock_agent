@@ -1,0 +1,7 @@
+# AWS Credentials - NUNCA commitar
+.aws/config
+.aws/credentials
+.aws/sso/
+
+# Manter apenas a estrutura .amazonq
+!.aws/.amazonq/
